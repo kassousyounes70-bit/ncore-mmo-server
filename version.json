@@ -2,5 +2,8 @@
   "latest_version": 2,
   "update_url": "",
   "mandatory": false,
-  "total_avatars": 30
+  "total_avatars": 30,
+  "total_bgm_tracks": 4,
+  "is_event_active": false,
+  "total_event_tracks": 0
 }
